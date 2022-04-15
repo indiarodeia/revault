@@ -446,28 +446,28 @@ section#whatIsRevault {
 }
 
 .icon-holder.i1 {
-  background-image: url(/assets/images/icon_how_1b.svg);
+  background-image: url(assets/images/icon_how_1b.svg);
 }
 .card:hover .icon-holder.i1 {
-  background-image: url(/assets/images/icon_how_1.svg);
+  background-image: url(assets/images/icon_how_1.svg);
 }
 .icon-holder.i2 {
-  background-image: url(/assets/images/icon_how_2b.svg);
+  background-image: url(assets/images/icon_how_2b.svg);
 }
 .card:hover .icon-holder.i2 {
-  background-image: url(/assets/images/icon_how_2.svg);
+  background-image: url(assets/images/icon_how_2.svg);
 }
 .icon-holder.i3 {
-  background-image: url(/assets/images/icon_how_3b.svg);
+  background-image: url(assets/images/icon_how_3b.svg);
 }
 .card:hover .icon-holder.i3 {
-  background-image: url(/assets/images/icon_how_3.svg);
+  background-image: url(assets/images/icon_how_3.svg);
 }
 .icon-holder.i4 {
-  background-image: url(/assets/images/icon_how_4b.svg);
+  background-image: url(assets/images/icon_how_4b.svg);
 }
 .card:hover .icon-holder.i4 {
-  background-image: url(/assets/images/icon_how_4.svg);
+  background-image: url(assets/images/icon_how_4.svg);
 }
 
 /* 3th Section - Wow it works */
