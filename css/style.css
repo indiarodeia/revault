@@ -1296,7 +1296,7 @@ input#submitNewsletter:hover {
 
 section#contribute {
   padding: 5% 10%;
-  background-color: var(--lightgrey);
+  background-color: var(--white);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
